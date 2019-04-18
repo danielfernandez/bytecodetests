@@ -1,3 +1,3 @@
 (current)
 =========
-- First release of unbescape.
+- First release of vexprel.
